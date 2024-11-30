@@ -1,25 +1,46 @@
-<a href="https://github.com/5holoud"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
+د<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
+<a href="https://github.com/5holoud">
+  <img align="center" alt="Kholoud's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</h1>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<p align="center">
+  <em>
+    This is ME, Kholoud, a student from <a href="#"> <b>Faculty of Computers and Information</b></a>, specializing in <b>Software Testing</b>. <br>
+    A budding <b>Software Tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and someone who is <b>determined</b>
+    to become the most <b>successful Software Tester</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
-> Note: This is not my real contribution graph :laughing:
+<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
-Hi, I am **Kholoud**, a student at the Faculty of Computers and Information, specializing in **Software Testing** track.  
-I aspire to become the **most successful software tester** in the future!
+> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-### My top 10 technologies-
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her***😉
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and enhancing my <b>Software Testing</b> skills! 
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in projects related to testing and quality assurance...
+- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help if I can!
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: My passion for testing is endless!
 
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
-|---|---|---|---|---|
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=5holoud&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=5holoud&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
 
-### Tech communities
+<hr>
 
-|Organizer|Organizer|Mentor|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/5holoud/count.svg" />
+</p>
 
-![Kholoud's github stats](https://github-readme-stats.vercel.app/api?username=5holoud&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- can't stop myself from editing🤷... -->
 
-⭐️ From [Kholoud](https://github.com/5holoud)
+⭐️ From **Kholoud** ([@5holoud](https://github.com/5holoud))
 
